@@ -11,7 +11,6 @@ import {
   redux,
   tailwind,
   nodejs,
-  mongodb,
   git,
   figma,
   docker,
@@ -93,10 +92,6 @@ const technologies = [
     icon: nodejs,
   },
   {
-    name: 'MongoDB',
-    icon: mongodb,
-  },
-  {
     name: 'Three JS',
     icon: threejs,
   },
@@ -155,7 +150,7 @@ const experiences = [
     ],
   },
   {
-    title: 'Full stack Developer',
+    title: 'FrontEnd Developer',
     company_name: 'Meta',
     icon: meta,
     iconBg: '#E6DEDD',
